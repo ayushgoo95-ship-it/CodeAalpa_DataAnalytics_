@@ -1,0 +1,121 @@
+Order_Date,Region,Category,Product,Units_Sold,Unit_Price,Discount,Revenue,Month,Month_Number
+2025-01-01 00:00:00.000000000,East,Electronics,Keyboard,21,68,0.06,1342.32,Jan,1
+2025-01-04 01:24:42.352941176,West,Furniture,Table,12,279,0.02,3281.04,Jan,1
+2025-01-07 02:49:24.705882352,North,Office Supplies,Printer Paper,18,14,0.14,216.72,Jan,1
+2025-01-10 04:14:07.058823529,East,Electronics,Monitor,9,219,0.13,1714.77,Jan,1
+2025-01-13 05:38:49.411764705,East,Furniture,Desk,5,370,0.18,1517.0,Jan,1
+2025-01-16 07:03:31.764705882,West,Electronics,Monitor,7,203,0.15,1207.85,Jan,1
+2025-01-19 08:28:14.117647058,North,Electronics,Laptop,9,990,0.16,7484.4,Jan,1
+2025-01-22 09:52:56.470588235,North,Electronics,Laptop,21,943,0.06,18614.82,Jan,1
+2025-01-25 11:17:38.823529411,East,Electronics,Laptop,4,600,0.04,2304.0,Jan,1
+2025-01-28 12:42:21.176470588,South,Office Supplies,File Folder,17,37,0.15,534.65,Jan,1
+2025-01-31 14:07:03.529411764,East,Electronics,Laptop,4,763,0.16,2563.68,Jan,1
+2025-02-03 15:31:45.882352941,East,Electronics,Monitor,19,202,0.2,3070.4,Feb,2
+2025-02-06 16:56:28.235294117,East,Electronics,Laptop,15,559,0.08,7714.2,Feb,2
+2025-02-09 18:21:10.588235294,East,Office Supplies,Printer Paper,19,16,0.07,282.72,Feb,2
+2025-02-12 19:45:52.941176470,West,Electronics,Headphones,3,137,0.16,345.24,Feb,2
+2025-02-15 21:10:35.294117647,North,Electronics,Keyboard,23,24,0.07,513.36,Feb,2
+2025-02-18 22:35:17.647058823,West,Office Supplies,Printer Paper,4,11,0.19,35.64,Feb,2
+2025-02-22 00:00:00.000000000,West,Office Supplies,Pen Set,17,8,0.17,112.88,Feb,2
+2025-02-25 01:24:42.352941176,West,Office Supplies,Notebook,10,8,0.09,72.8,Feb,2
+2025-02-28 02:49:24.705882353,East,Electronics,Keyboard,5,66,0.15,280.5,Feb,2
+2025-03-03 04:14:07.058823529,South,Office Supplies,Notebook,2,5,0.15,8.5,Mar,3
+2025-03-06 05:38:49.411764706,North,Office Supplies,Notebook,5,10,0.02,49.0,Mar,3
+2025-03-09 07:03:31.764705882,South,Electronics,Monitor,2,201,0.18,329.64,Mar,3
+2025-03-12 08:28:14.117647059,West,Office Supplies,Printer Paper,15,20,0.1,270.0,Mar,3
+2025-03-15 09:52:56.470588235,West,Electronics,Headphones,22,42,0.17,766.92,Mar,3
+2025-03-18 11:17:38.823529412,South,Furniture,Chair,17,183,0.06,2924.34,Mar,3
+2025-03-21 12:42:21.176470588,South,Office Supplies,File Folder,21,34,0.18,585.48,Mar,3
+2025-03-24 14:07:03.529411765,South,Furniture,Desk,9,246,0.08,2036.88,Mar,3
+2025-03-27 15:31:45.882352941,West,Electronics,Keyboard,8,36,0.0,288.0,Mar,3
+2025-03-30 16:56:28.235294118,West,Office Supplies,Printer Paper,4,23,0.18,75.44,Mar,3
+2025-04-02 18:21:10.588235294,North,Electronics,Keyboard,18,77,0.02,1358.28,Apr,4
+2025-04-05 19:45:52.941176471,North,Furniture,Bookshelf,2,262,0.06,492.56,Apr,4
+2025-04-08 21:10:35.294117647,West,Electronics,Keyboard,17,81,0.19,1115.37,Apr,4
+2025-04-11 22:35:17.647058823,South,Office Supplies,Pen Set,13,27,0.19,284.31,Apr,4
+2025-04-15 00:00:00.000000000,South,Office Supplies,Pen Set,20,13,0.11,231.4,Apr,4
+2025-04-18 01:24:42.352941176,North,Furniture,Table,23,239,0.13,4782.39,Apr,4
+2025-04-21 02:49:24.705882352,West,Electronics,Monitor,24,394,0.09,8604.96,Apr,4
+2025-04-24 04:14:07.058823530,North,Office Supplies,Notebook,23,3,0.06,64.86,Apr,4
+2025-04-27 05:38:49.411764706,North,Furniture,Bookshelf,15,137,0.07,1911.15,Apr,4
+2025-04-30 07:03:31.764705882,East,Office Supplies,Printer Paper,7,5,0.13,30.45,Apr,4
+2025-05-03 08:28:14.117647058,East,Office Supplies,File Folder,7,38,0.15,226.1,May,5
+2025-05-06 09:52:56.470588236,East,Electronics,Laptop,14,595,0.16,6997.2,May,5
+2025-05-09 11:17:38.823529412,South,Office Supplies,File Folder,20,29,0.16,487.2,May,5
+2025-05-12 12:42:21.176470588,West,Electronics,Headphones,23,133,0.02,2997.82,May,5
+2025-05-15 14:07:03.529411764,West,Office Supplies,Printer Paper,9,17,0.1,137.7,May,5
+2025-05-18 15:31:45.882352942,West,Furniture,Desk,3,371,0.01,1101.87,May,5
+2025-05-21 16:56:28.235294118,West,Office Supplies,Pen Set,22,11,0.11,215.38,May,5
+2025-05-24 18:21:10.588235294,East,Electronics,Monitor,2,341,0.09,620.62,May,5
+2025-05-27 19:45:52.941176470,South,Electronics,Keyboard,16,82,0.18,1075.84,May,5
+2025-05-30 21:10:35.294117646,South,Furniture,Table,2,168,0.07,312.48,May,5
+2025-06-02 22:35:17.647058824,East,Office Supplies,Notebook,6,5,0.02,29.4,Jun,6
+2025-06-06 00:00:00.000000000,South,Office Supplies,Notebook,17,14,0.03,230.86,Jun,6
+2025-06-09 01:24:42.352941176,East,Furniture,Table,20,253,0.15,4301.0,Jun,6
+2025-06-12 02:49:24.705882352,West,Office Supplies,Pen Set,5,20,0.12,88.0,Jun,6
+2025-06-15 04:14:07.058823530,East,Office Supplies,Printer Paper,4,23,0.02,90.16,Jun,6
+2025-06-18 05:38:49.411764706,West,Electronics,Keyboard,18,76,0.02,1340.64,Jun,6
+2025-06-21 07:03:31.764705882,West,Office Supplies,Notebook,18,16,0.14,247.68,Jun,6
+2025-06-24 08:28:14.117647058,North,Office Supplies,Pen Set,13,9,0.01,115.83,Jun,6
+2025-06-27 09:52:56.470588236,East,Furniture,Table,15,146,0.16,1839.6,Jun,6
+2025-06-30 11:17:38.823529412,North,Furniture,Table,22,340,0.14,6432.8,Jun,6
+2025-07-03 12:42:21.176470588,East,Electronics,Monitor,7,243,0.02,1666.98,Jul,7
+2025-07-06 14:07:03.529411764,East,Office Supplies,File Folder,4,9,0.02,35.28,Jul,7
+2025-07-09 15:31:45.882352942,North,Office Supplies,Pen Set,10,16,0.2,128.0,Jul,7
+2025-07-12 16:56:28.235294118,North,Office Supplies,Printer Paper,6,20,0.07,111.6,Jul,7
+2025-07-15 18:21:10.588235294,East,Electronics,Monitor,18,367,0.07,6143.58,Jul,7
+2025-07-18 19:45:52.941176470,South,Electronics,Monitor,15,367,0.16,4624.2,Jul,7
+2025-07-21 21:10:35.294117646,West,Furniture,Bookshelf,22,255,0.19,4544.1,Jul,7
+2025-07-24 22:35:17.647058824,North,Electronics,Keyboard,4,58,0.2,185.6,Jul,7
+2025-07-28 00:00:00.000000000,West,Office Supplies,File Folder,2,37,0.15,62.9,Jul,7
+2025-07-31 01:24:42.352941176,South,Office Supplies,Pen Set,21,9,0.08,173.88,Jul,7
+2025-08-03 02:49:24.705882352,South,Electronics,Keyboard,22,42,0.02,905.52,Aug,8
+2025-08-06 04:14:07.058823528,South,Office Supplies,Notebook,24,12,0.16,241.92,Aug,8
+2025-08-09 05:38:49.411764704,North,Office Supplies,Notebook,2,7,0.11,12.46,Aug,8
+2025-08-12 07:03:31.764705884,South,Electronics,Keyboard,4,53,0.08,195.04,Aug,8
+2025-08-15 08:28:14.117647060,North,Electronics,Keyboard,19,71,0.18,1106.18,Aug,8
+2025-08-18 09:52:56.470588236,South,Office Supplies,Pen Set,11,14,0.02,150.92,Aug,8
+2025-08-21 11:17:38.823529412,West,Office Supplies,Printer Paper,23,23,0.1,476.1,Aug,8
+2025-08-24 12:42:21.176470588,West,Office Supplies,File Folder,4,36,0.0,144.0,Aug,8
+2025-08-27 14:07:03.529411764,East,Furniture,Chair,9,70,0.09,573.3,Aug,8
+2025-08-30 15:31:45.882352940,West,Furniture,Bookshelf,15,148,0.01,2197.8,Aug,8
+2025-09-02 16:56:28.235294116,East,Furniture,Table,19,336,0.02,6256.32,Sep,9
+2025-09-05 18:21:10.588235292,West,Electronics,Laptop,16,503,0.02,7887.04,Sep,9
+2025-09-08 19:45:52.941176472,North,Furniture,Chair,23,85,0.13,1700.85,Sep,9
+2025-09-11 21:10:35.294117648,West,Electronics,Headphones,24,53,0.15,1081.2,Sep,9
+2025-09-14 22:35:17.647058824,East,Electronics,Monitor,3,229,0.12,604.56,Sep,9
+2025-09-18 00:00:00.000000000,East,Furniture,Bookshelf,11,81,0.19,721.71,Sep,9
+2025-09-21 01:24:42.352941176,South,Furniture,Desk,3,259,0.07,722.61,Sep,9
+2025-09-24 02:49:24.705882352,North,Furniture,Desk,18,251,0.06,4246.92,Sep,9
+2025-09-27 04:14:07.058823528,West,Office Supplies,Pen Set,9,16,0.17,119.52,Sep,9
+2025-09-30 05:38:49.411764704,South,Furniture,Bookshelf,2,257,0.04,493.44,Sep,9
+2025-10-03 07:03:31.764705884,West,Office Supplies,File Folder,10,39,0.19,315.9,Oct,10
+2025-10-06 08:28:14.117647060,West,Electronics,Keyboard,12,52,0.0,624.0,Oct,10
+2025-10-09 09:52:56.470588236,South,Office Supplies,Printer Paper,23,5,0.19,93.15,Oct,10
+2025-10-12 11:17:38.823529412,South,Furniture,Table,17,288,0.01,4847.04,Oct,10
+2025-10-15 12:42:21.176470588,South,Electronics,Laptop,8,678,0.18,4447.68,Oct,10
+2025-10-18 14:07:03.529411764,South,Electronics,Keyboard,11,62,0.11,606.98,Oct,10
+2025-10-21 15:31:45.882352940,South,Electronics,Keyboard,24,31,0.2,595.2,Oct,10
+2025-10-24 16:56:28.235294116,West,Office Supplies,Notebook,4,5,0.01,19.8,Oct,10
+2025-10-27 18:21:10.588235292,South,Furniture,Desk,19,164,0.11,2773.24,Oct,10
+2025-10-30 19:45:52.941176472,North,Electronics,Laptop,14,916,0.19,10387.44,Oct,10
+2025-11-02 21:10:35.294117648,East,Electronics,Keyboard,8,59,0.1,424.8,Nov,11
+2025-11-05 22:35:17.647058824,South,Electronics,Headphones,5,103,0.13,448.05,Nov,11
+2025-11-09 00:00:00.000000000,South,Office Supplies,File Folder,14,33,0.14,397.32,Nov,11
+2025-11-12 01:24:42.352941176,West,Office Supplies,Notebook,21,15,0.09,286.65,Nov,11
+2025-11-15 02:49:24.705882352,South,Furniture,Chair,2,81,0.13,140.94,Nov,11
+2025-11-18 04:14:07.058823528,South,Office Supplies,File Folder,9,35,0.12,277.2,Nov,11
+2025-11-21 05:38:49.411764704,South,Electronics,Monitor,15,195,0.18,2398.5,Nov,11
+2025-11-24 07:03:31.764705884,West,Furniture,Bookshelf,17,209,0.01,3517.47,Nov,11
+2025-11-27 08:28:14.117647060,South,Electronics,Laptop,15,752,0.06,10603.2,Nov,11
+2025-11-30 09:52:56.470588236,East,Electronics,Laptop,13,998,0.19,10508.94,Nov,11
+2025-12-03 11:17:38.823529412,West,Office Supplies,Pen Set,20,22,0.18,360.8,Dec,12
+2025-12-06 12:42:21.176470588,East,Furniture,Bookshelf,24,114,0.09,2489.76,Dec,12
+2025-12-09 14:07:03.529411764,West,Office Supplies,File Folder,16,27,0.12,380.16,Dec,12
+2025-12-12 15:31:45.882352940,South,Office Supplies,File Folder,3,21,0.06,59.22,Dec,12
+2025-12-15 16:56:28.235294116,East,Furniture,Bookshelf,3,169,0.04,486.72,Dec,12
+2025-12-18 18:21:10.588235292,West,Electronics,Keyboard,24,27,0.09,589.68,Dec,12
+2025-12-21 19:45:52.941176472,North,Electronics,Keyboard,23,45,0.07,962.55,Dec,12
+2025-12-24 21:10:35.294117648,South,Furniture,Desk,20,189,0.12,3326.4,Dec,12
+2025-12-27 22:35:17.647058824,West,Electronics,Keyboard,23,53,0.02,1194.62,Dec,12
+2025-12-31 00:00:00.000000000,North,Furniture,Chair,23,184,0.19,3427.92,Dec,12
